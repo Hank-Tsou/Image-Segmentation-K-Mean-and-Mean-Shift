@@ -12,6 +12,8 @@
 >>> <pre> >> [cluster number for K-means: 3]
 
 >>> (d) The program will show the result image
+
+>>> ![3_a](https://user-images.githubusercontent.com/28382639/35773236-f6a4a42c-0900-11e8-8605-3b4eebf96c3f.jpg)
   
 #### Mean shift
 
