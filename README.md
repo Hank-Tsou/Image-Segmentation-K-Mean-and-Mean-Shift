@@ -1,5 +1,12 @@
 # Image-Segmentation-K-Mean-and-Mean-Shift
 
+>> This file include: 
+>>* (1) Readme.md
+>>* (2) panda.jpg
+>>* (3) 3_a.py (k-mean)
+>>* (4) 3_b.py (mean-shift)
+
+
 #### K-mean
 >> #### (A) How to run the code [3_a.py ( K-mean )]
 >>> (a) Using the command prompt and direct to the file position. (my example)
