@@ -26,3 +26,6 @@
 >>> <pre> >> [C:\Users\hank\Desktop\Yueh_Lin_Tsou_lab2\3\b>python 3_b.py]
 
 >>> (c) The program will show the result image
+
+>>> ![3_b](https://user-images.githubusercontent.com/28382639/35773241-0ced2aec-0901-11e8-9d6e-4348b892e02e.jpg)
+
